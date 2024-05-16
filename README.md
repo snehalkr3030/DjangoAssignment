@@ -128,5 +128,4 @@ python manage.py runserver
 4. Execute the requests to interact with the API endpoints.
 5. Ensure that your Django server is running and accessible at the specified URLs.
 
-# Django-Assignment
-# Django-Assignment
+
