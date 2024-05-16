@@ -1,4 +1,4 @@
-# -Ridiv-Technologies-invoices-assessment
+# invoices-assessment
 
 This API allows you to manage invoices and their details.
 
